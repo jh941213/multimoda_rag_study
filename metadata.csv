@@ -1,0 +1,6 @@
+video_path,food_name
+extract_video/cold noodles_10_15.mp4,"['cold noodles', 'hotteok', 'jelly', 'ice cream', 'honey citron tea']"
+extract_video/hotteok_16_21.mp4,"['cold noodles', 'hotteok', 'jelly', 'ice cream', 'honey citron tea']"
+extract_video/jelly_22_26.mp4,"['cold noodles', 'hotteok', 'jelly', 'ice cream', 'honey citron tea']"
+extract_video/ice cream_26_31.mp4,"['cold noodles', 'hotteok', 'jelly', 'ice cream', 'honey citron tea']"
+extract_video/honey citron tea_35_41.mp4,"['cold noodles', 'hotteok', 'jelly', 'ice cream', 'honey citron tea']"
